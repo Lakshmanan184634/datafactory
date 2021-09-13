@@ -1,0 +1,9 @@
+{
+	"name": "ustdfaz",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0f26763f-6e7d-49bd-9f83-69ba81a221b4",
+		"tenantId": "a4431f4b-c207-4733-9530-34c08a9b2b8d"
+	}
+}
